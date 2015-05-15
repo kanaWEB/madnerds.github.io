@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "madnerds",
-    "repositoryName": "madnerds.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"madnerds","repositoryName":"madnerds.github.io","branch":"master"},"site":{"title":"MadNerds ScratchBook","url":"https://madnerds.github.io"},"socialnetwork":{"twitter":"@madnerds"},"theme":{"name":"Casper","url":"//madnerds.github.io/themes/Casper"}}
